@@ -8,7 +8,7 @@ Sou estudante de Engenharia da Computação com forte interesse em desenvolvimen
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+<!-- <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -55,7 +55,7 @@ Sou estudante de Engenharia da Computação com forte interesse em desenvolvimen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+/> -->
 <!-- <img 
     align="left" 
     alt="Bootstrap"
