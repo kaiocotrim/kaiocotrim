@@ -2,7 +2,7 @@
 
 **`Futuro Dev FullStack`**
 
-Sou estudante de Engenharia da Computação com forte interesse em desenvolvimento de software. Estou focado em aprimorar minhas habilidades em JavaScript, React e Node.js, com o objetivo de atuar como desenvolvedor full stack. Tenho experiência prática em projetos acadêmicos e pessoais, e estou em busca de oportunidades para aplicar e expandir meus conhecimentos.
+Sou estudante de Engenharia da Computação com forte interesse em desenvolvimento de software. Estou focado em aprimorar minhas habilidades em JavaScript, React e Node.js, com o objetivo de atuar como desenvolvedor full stack. Estou em busca de oportunidades para aplicar e expandir meus conhecimentos.
 
 ---
 
