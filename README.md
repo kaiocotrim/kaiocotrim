@@ -6,7 +6,6 @@ Sou estudante de Engenharia da Computação com forte interesse em desenvolvimen
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
 <!-- <img 
     align="left" 
@@ -104,14 +103,14 @@ Sou estudante de Engenharia da Computação com forte interesse em desenvolvimen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 /> -->
-<img 
+<!-- <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+/> -->
 <!-- <img 
     align="left" 
     alt="Python" 
