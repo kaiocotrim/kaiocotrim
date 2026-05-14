@@ -9,101 +9,25 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com grande interesse e
 
 ### Linguagens e Tecnologias
 
-### 🚀 Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<div style="display: inline_block"><br/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img 
-  align="center" 
-  alt="HTML"
-  title="HTML" 
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img 
-  align="center" 
-  alt="CSS" 
-  title="CSS"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-<img 
-  align="center" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<img 
-  align="center" 
-  alt="TypeScript" 
-  title="TypeScript"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-<img 
-  align="center" 
-  alt="React" 
-  title="React"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
-<img 
-  align="center" 
-  alt="TailwindCSS" 
-  title="TailwindCSS"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+<img align="left" alt="Express" title="Express" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
-<img 
-  align="center" 
-  alt="NodeJS" 
-  title="NodeJS"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img 
-  align="center" 
-  alt="Express" 
-  title="Express"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-
-<img 
-  align="center" 
-  alt="Git" 
-  title="Git"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-  align="center" 
-  alt="GitHub" 
-  title="GitHub"
-  width="45px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-</div>
-
-<br/>
-
-<p align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B3D177&width=435&lines=Front-end+Developer;React+%2B+TypeScript;Node.js+Back-end;Always+learning+new+things"
-    alt="Typing SVG"
-  />
-</p>
-
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <!-- <img 
     align="left" 
     alt="HTML"
