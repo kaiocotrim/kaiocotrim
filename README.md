@@ -23,4 +23,4 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e 
 | **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="30" /> |
 | **Database & ORM** | <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" height="30" /> + *Neon Database* |
 | **Autenticação** | `Auth.js` • `Better Auth` • `JWT` • `OAuth` |
-| **Ferramentas** | <img src="https://skillicons
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github" height="30" /> |
