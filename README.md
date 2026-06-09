@@ -1,7 +1,6 @@
 # 👨🏻‍💻 Kaio Cotrim
 **Future Full Stack Developer**
 🎓 ADS Student • 🚀 Full Stack Enthusiast • 💡 Always Learning
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software. Focado na construção de aplicações modernas, robustas e escaláveis utilizando o ecossistema JavaScript e TypeScript.
 ---
 ### 🚀 Foco Atual & Aprendizado
 * 🎒 Evoluindo na graduação de Análise e Desenvolvimento de Sistemas.
