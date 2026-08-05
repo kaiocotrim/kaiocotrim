@@ -1,18 +1,41 @@
 # 👨🏻‍💻 Kaio Cotrim
-**Future Full Stack Developer**
-🎓 ADS Student • 🚀 Full Stack Enthusiast • 💡 Always Learning
+
+**Desenvolvedor Full Stack em formação**
+
+Estudante de **Sistemas de Informação**, técnico de TI e desenvolvedor focado na criação de aplicações modernas, funcionais e escaláveis.
+
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, construindo projetos com Next.js, Node.js, TypeScript e PostgreSQL.
+
 ---
-### 🚀 Foco Atual & Aprendizado
-* 🎒 Evoluindo na graduação de Análise e Desenvolvimento de Sistemas.
-* 🏗️ Construindo projetos robustos com **Next.js**, **Node.js** e **PostgreSQL**.
-* 🔐 Implementando autenticação segura com **Better Auth** e **Auth.js** (NextAuth).
-* 🌐 Desenvolvendo e integrando **APIs REST**.
+
+## 🚀 Atualmente
+
+* Desenvolvendo aplicações com **Next.js** e **React**
+* Criando e integrando **APIs REST**
+* Trabalhando com **PostgreSQL**, Prisma e Supabase
+* Implementando autenticação com **Auth.js**, Better Auth, JWT e OAuth
+* Aprimorando conhecimentos em arquitetura e boas práticas
+
 ---
-### 🛠️ Tech Stack & Ferramentas
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="30" /> |
-| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="30" /> |
-| **Database & ORM** | <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" height="30" /> <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" height="22" /> |
-| **Autenticação** | `Auth.js` • `Better Auth` • `JWT` • `OAuth` |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github" height="30" /> |
+
+## 🛠️ Tecnologias
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="35" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="35" />
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" height="35" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github" height="35" />
+
+---
+
+> Sempre aprendendo, desenvolvendo e transformando ideias em soluções.
