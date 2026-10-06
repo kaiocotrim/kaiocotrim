@@ -19,27 +19,17 @@ Atualmente, desenvolvo projetos Full Stack e venho aprofundando meus conheciment
 
 ## 🛠️ Stack
 
-### Front-end
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="35" />
-
-### Back-end
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="35" />
 
-### Banco de dados
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase" height="35" />
-
-### DevOps & Infraestrutura
 
 <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx" height="35" />
 
-**Docker • Dockploy • VPS • Linux**
-
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="35" />
+<img src="https://skillicons.dev/icons?i=git,github,postman" height="35" />
 
 ---
 
