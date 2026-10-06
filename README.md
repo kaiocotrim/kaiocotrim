@@ -4,15 +4,18 @@
 
 Estudante de **Sistemas de Informação** e técnico de TI, com foco no desenvolvimento de aplicações web modernas, funcionais e escaláveis.
 
-Atualmente, venho desenvolvendo projetos Full Stack e aprofundando meus conhecimentos em **Next.js, React, Node.js, TypeScript e PostgreSQL**.
+Atualmente, desenvolvo projetos Full Stack e venho aprofundando meus conhecimentos em **Next.js, React, Node.js, TypeScript, PostgreSQL, Docker e infraestrutura para aplicações web**.
 
 ## 🚀 Atualmente
 
-- Desenvolvimento de aplicações com **Next.js e React**
-- Criação e integração de **APIs REST**
-- Modelagem e gerenciamento de bancos de dados
-- Autenticação com **Auth.js, Better Auth, JWT e OAuth**
-- Estudos sobre arquitetura, boas práticas e organização de projetos
+- Desenvolvendo aplicações com **Next.js e React**
+- Criando e integrando **APIs REST**
+- Trabalhando com **PostgreSQL, Prisma e Supabase**
+- Implementando autenticação com **Auth.js, Better Auth, JWT e OAuth**
+- Utilizando **Docker** para ambientes e serviços
+- Realizando deploy e gerenciamento de aplicações com **Dockploy**
+- Trabalhando com **VPS e servidores Linux**
+- Aprimorando conhecimentos em arquitetura, infraestrutura e boas práticas
 
 ## 🛠️ Stack
 
@@ -26,12 +29,18 @@ Atualmente, venho desenvolvendo projetos Full Stack e aprofundando meus conhecim
 
 ### Banco de dados
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" height="35" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase" height="35" />
+
+### DevOps & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx" height="35" />
+
+**Docker • Dockploy • VPS • Linux**
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github" height="35" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="35" />
 
 ---
 
-**Construindo projetos, aprimorando conhecimentos e evoluindo como desenvolvedor Full Stack.**
+**Construindo aplicações Full Stack do desenvolvimento ao deploy.**
