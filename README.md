@@ -15,7 +15,7 @@ Atualmente, desenvolvo projetos Full Stack e venho aprofundando meus conheciment
 - Trabalhando com **VPS e servidores Linux**
 - Aprimorando conhecimentos em arquitetura, infraestrutura e boas práticas
 
-## 🛠️ Stack
+##  Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="35" />
 
