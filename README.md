@@ -17,13 +17,8 @@ Atualmente, desenvolvo projetos Full Stack e venho aprofundando meus conheciment
 
 ##  Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="35" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="35" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase" height="35" />
-
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx" height="35" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="35" /> <img src="https://skillicons.dev/icons?i=nodejs,express" height="35" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase" height="35" /> <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx" height="35" />
 
 ### Ferramentas
 
