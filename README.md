@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** e técnico de TI, com foco no desenvol
 
 Atualmente, desenvolvo projetos Full Stack e venho aprofundando meus conhecimentos em **Next.js, React, Node.js, TypeScript, PostgreSQL, Docker e infraestrutura para aplicações web**.
 
-## 🚀 Atualmente
+##  Atualmente
 
 - Desenvolvendo aplicações com **Next.js e React**
 - Criando e integrando **APIs REST**
