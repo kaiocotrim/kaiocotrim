@@ -2,23 +2,19 @@
 
 **Desenvolvedor Full Stack em formação**
 
-Estudante de **Sistemas de Informação**, técnico de TI e desenvolvedor focado na criação de aplicações modernas, funcionais e escaláveis.
+Estudante de **Sistemas de Informação** e técnico de TI, com foco no desenvolvimento de aplicações web modernas, funcionais e escaláveis.
 
-Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, construindo projetos com Next.js, Node.js, TypeScript e PostgreSQL.
-
----
+Atualmente, venho desenvolvendo projetos Full Stack e aprofundando meus conhecimentos em **Next.js, React, Node.js, TypeScript e PostgreSQL**.
 
 ## 🚀 Atualmente
 
-* Desenvolvendo aplicações com **Next.js** e **React**
-* Criando e integrando **APIs REST**
-* Trabalhando com **PostgreSQL**, Prisma e Supabase
-* Implementando autenticação com **Auth.js**, Better Auth, JWT e OAuth
-* Aprimorando conhecimentos em arquitetura e boas práticas
+- Desenvolvimento de aplicações com **Next.js e React**
+- Criação e integração de **APIs REST**
+- Modelagem e gerenciamento de bancos de dados
+- Autenticação com **Auth.js, Better Auth, JWT e OAuth**
+- Estudos sobre arquitetura, boas práticas e organização de projetos
 
----
-
-## 🛠️ Tecnologias
+## 🛠️ Stack
 
 ### Front-end
 
@@ -38,4 +34,4 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento Full Stac
 
 ---
 
-> Sempre aprendendo, desenvolvendo e transformando ideias em soluções.
+**Construindo projetos, aprimorando conhecimentos e evoluindo como desenvolvedor Full Stack.**
