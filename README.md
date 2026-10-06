@@ -1,6 +1,4 @@
-# 👨🏻‍💻 Kaio Cotrim
-
-**Desenvolvedor Full Stack em formação**
+**Desenvolvedor Full Stack**
 
 Estudante de **Sistemas de Informação** e técnico de TI, com foco no desenvolvimento de aplicações web modernas, funcionais e escaláveis.
 
